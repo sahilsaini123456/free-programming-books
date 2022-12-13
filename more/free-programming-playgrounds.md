@@ -68,7 +68,7 @@
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
-
+* [Codingninjas - Online C Compiler](https://www.codingninjas.com/codestudio/online-compiler/online-c-compiler)
 
 ### <a id="csharp"></a>C\#
 
